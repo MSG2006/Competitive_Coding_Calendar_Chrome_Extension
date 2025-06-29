@@ -1,1 +1,1 @@
-# Competitive_Coding_Calendar_Chrome_Extension
+# Competitive_Coding_Calendar_Extension
