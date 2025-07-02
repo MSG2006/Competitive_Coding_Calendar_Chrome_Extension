@@ -4,7 +4,7 @@ Welcome to my CP Calendar!
 For those who're new to this project, it's a Chrome Extension that helps you get the schedule of Competitive Programming contests, from all well known platforms like Codeforces, LeetCode, AtCoder, and more, at one place. 
 
 ## Here is a preview image of my project
-![App Screenshot](images/Competitive Calendar image.png)
+![App Screenshot](https://github.com/MSG2006/Competitive_Coding_Calendar_Extension/blob/main/images/Competitive%20Calendar%20image.png)
 
 # Detailed Description
 - This extension uses the [CLIST API](https://www.clist.by).
